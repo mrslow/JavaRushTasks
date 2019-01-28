@@ -31,5 +31,6 @@ fabric.properties
 *.txt
 *.txt.*
 *.log
+*.html
 Instruction.png
 JavaRushPlugin.properties
